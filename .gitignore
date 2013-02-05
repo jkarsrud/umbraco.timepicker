@@ -1,4 +1,6 @@
 src/*/bin
 src/*/obj
 
-/src/packages
+src/packages
+
+**csproj.user
